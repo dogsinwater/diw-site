@@ -1,0 +1,36 @@
+{
+  "name": "Dogs In Water",
+  "domain": "https://dogsinwater.com",
+  "tagline": "Safer, happier days in the water.",
+  "description": "Practical, safety-first guides to swimming, beaches, lakes, boating and pools with your dog, plus the ear, skin and coat care that keeps water days fun.",
+  "contact_email": "hello@dogsinwater.com",
+  "amazon_tag": "dogsinwater-20",
+  "featured_guides": [
+    "checklist-for-ensuring-your-dogs-safety-in-and-around-water",
+    "teaching-your-dog-to-swim-via-doggy-paddle",
+    "doggy-life-jackets",
+    "understanding-the-dangers-of-algae",
+    "packing-for-the-beach-a-dog-owners-checklist",
+    "preparing-for-a-boat-trip-with-your-dog"
+  ],
+  "pillars": [
+    {"slug": "water-safety", "name": "Water Safety", "icon": "shield",
+     "blurb": "Life jackets, currents, toxic algae, heatstroke, water first aid and the checklist to run before every swim."},
+    {"slug": "learning-to-swim", "name": "Learning to Swim", "icon": "swim",
+     "blurb": "Teaching puppies, nervous dogs and seniors to enjoy the water, and which breeds should stay in the shallows."},
+    {"slug": "beach", "name": "Beach Days", "icon": "sun",
+     "blurb": "Packing, salt water, sand, heat and beach manners, so a day at the ocean ends with a tired, happy dog."},
+    {"slug": "lakes-and-rivers", "name": "Lakes & Rivers", "icon": "tree",
+     "blurb": "Fresh water has its own hazards. What to pack and what to watch for at the lake."},
+    {"slug": "boating-and-paddling", "name": "Boating & Paddling", "icon": "boat",
+     "blurb": "Boats, kayaks and paddleboards: life jackets, ramps, seasickness and getting your dog back aboard."},
+    {"slug": "pools", "name": "Pools", "icon": "pool",
+     "blurb": "Backyard pool safety, chlorine, exits and the toys that make pool time fun."},
+    {"slug": "after-the-swim", "name": "After the Swim", "icon": "towel",
+     "blurb": "Rinsing, drying, ears, skin and coat: the care that keeps water fun from turning into a vet visit."},
+    {"slug": "games-and-sports", "name": "Games & Sports", "icon": "ball",
+     "blurb": "Water games, dock diving, surfing and photographing your dog in action."},
+    {"slug": "snow-and-ice", "name": "Snow & Ice", "icon": "snow",
+     "blurb": "Frozen lakes, winter swims and snow play: water in its coldest form."}
+  ]
+}

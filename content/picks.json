@@ -1,0 +1,54 @@
+{
+  "intro": "The gear that makes water days safer and easier, chosen around the guides on this site. Each link opens Amazon's current options, so you can compare prices, sizes and reviews.",
+  "groups": [
+    {"id": "safety", "pillar": "water-safety", "title": "Safety essentials",
+     "blurb": "If you buy one thing, make it a well-fitted life jacket with a strong handle.",
+     "items": [
+       {"name": "Dog life jacket with rescue handle", "why": "Bright, with flotation under the chest and chin and a sturdy handle for lifting your dog out of the water.", "query": "dog life jacket rescue handle"},
+       {"name": "Floating long-line leash", "why": "Keeps control near water while your dog's recall is still a work in progress, and it won't sink.", "query": "floating dog leash long line"},
+       {"name": "Pet first aid kit", "why": "Gauze, wrap, saline and tick tools for cuts, stings and scrapes on the shore.", "query": "pet first aid kit dogs"},
+       {"name": "Rescue throw bag", "why": "Lets you reach a dog in trouble from shore or a boat without going in yourself.", "query": "rescue throw bag rope"}
+     ]},
+    {"id": "beach", "pillar": "beach", "title": "Beach day",
+     "blurb": "Shade, fresh water and a rinse at the end of the day.",
+     "items": [
+       {"name": "Beach shade tent", "why": "Shade is the best protection against heatstroke on hot sand.", "query": "dog beach shade tent"},
+       {"name": "Collapsible travel bowl", "why": "So your dog drinks fresh water instead of sea or lake water.", "query": "collapsible dog water bowl travel"},
+       {"name": "Portable pet shower", "why": "Rinses salt and sand off before the car ride home.", "query": "portable dog shower rinser"},
+       {"name": "Dog-safe sunscreen", "why": "For pink noses and thin coats. Human sunscreens with zinc oxide are toxic if licked.", "query": "dog sunscreen"},
+       {"name": "Booties for hot sand", "why": "Protect pads from hot sand, shells and rocks.", "query": "dog booties hot pavement sand"}
+     ]},
+    {"id": "boat", "pillar": "boating-and-paddling", "title": "Boating and paddling",
+     "blurb": "Getting on and off safely, and staying comfortable aboard.",
+     "items": [
+       {"name": "Floating boat ramp", "why": "Gives a tired dog an easy way to swim back aboard.", "query": "floating dog ramp boat"},
+       {"name": "Dog boat ladder", "why": "A compact option with wide, non-slip steps.", "query": "dog boat ladder"},
+       {"name": "Non-slip deck mat", "why": "A secure spot for your dog to settle while the boat is moving.", "query": "non slip boat deck mat dog"},
+       {"name": "Paddleboard traction pad", "why": "Keeps paws from slipping on a kayak or SUP.", "query": "paddleboard traction pad dog"},
+       {"name": "Portable grass potty pad", "why": "For long days on the water between shore stops.", "query": "dog grass pad portable"}
+     ]},
+    {"id": "pool", "pillar": "pools", "title": "Pool",
+     "blurb": "A way out, and a warning if your dog goes in alone.",
+     "items": [
+       {"name": "Dog pool ramp", "why": "An easy exit for dogs who can't manage the steps.", "query": "dog pool ramp exit"},
+       {"name": "Pool alarm", "why": "Alerts you if something falls into the pool.", "query": "pool alarm pet motion"},
+       {"name": "Foldable dog pool", "why": "Splash fun for small and flat-faced dogs who shouldn't swim deep.", "query": "foldable dog pool"}
+     ]},
+    {"id": "toys", "pillar": "games-and-sports", "title": "Water toys",
+     "blurb": "Bright, floating and easy to grip, to limit water gulping.",
+     "items": [
+       {"name": "Floating bumpers", "why": "Classic retrieving toy that's easy to see and carry.", "query": "floating dog bumper toy"},
+       {"name": "Floating water disc", "why": "Flat and light, so dogs swallow less water than with big balls.", "query": "floating dog frisbee water"},
+       {"name": "Splash pad", "why": "Water fun without swimming, for hot days in the yard.", "query": "dog splash pad sprinkler"}
+     ]},
+    {"id": "after", "pillar": "after-the-swim", "title": "After the swim",
+     "blurb": "Rinse, dry and protect ears, skin and paws.",
+     "items": [
+       {"name": "Microfiber dog towel", "why": "Absorbs far more than a regular towel and dries fast.", "query": "microfiber dog towel drying"},
+       {"name": "Dog drying coat", "why": "A wearable towel for the car ride home, especially in cooler weather.", "query": "dog drying coat robe"},
+       {"name": "Drying ear cleaner", "why": "Ask your vet. Helps prevent ear infections in dogs who swim often.", "query": "veterinary dog ear cleaner drying"},
+       {"name": "Waterproof car seat cover", "why": "Keeps wet, sandy dogs off the seats.", "query": "dog car seat cover waterproof"},
+       {"name": "Paw balm", "why": "Soothes pads dried out by salt, sand and ice melt.", "query": "dog paw balm"}
+     ]}
+  ]
+}
